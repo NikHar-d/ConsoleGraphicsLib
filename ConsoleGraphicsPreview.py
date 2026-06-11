@@ -1,4 +1,4 @@
-import BetterConsoleGraphicsLib as Gl
+import ConsoleGraphicsLib as Gl
 import math
 
 width = 120
